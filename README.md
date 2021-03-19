@@ -1,3 +1,3 @@
 # Eye-Movement-Exercise
 ## This is an exercise on Eyes for the MIT Full Stack Development Course.
-
+<img src = "oneeye.png" width='300'>/ 
